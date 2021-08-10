@@ -1,0 +1,25 @@
+
+
+container {
+  display: flex;
+  flex-direction: row; 
+  width: 100%;
+  height: 100vh;
+  overflow: scroll;
+  overflow-x: hidden;
+  background: #131313;
+}
+
+.columnLeft{
+  width: 40%;
+  position: fixed;
+  z-index: 6;
+}
+.columnRight{
+  width: 60%;
+  margin-left: 40vw;
+}
+
+
+
+
