@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Animation/static/css/main.f42f623c.chunk.css",
+    "main.js": "/Animation/static/js/main.91b537a9.chunk.js",
+    "main.js.map": "/Animation/static/js/main.91b537a9.chunk.js.map",
+    "runtime-main.js": "/Animation/static/js/runtime-main.c9afcfa0.js",
+    "runtime-main.js.map": "/Animation/static/js/runtime-main.c9afcfa0.js.map",
+    "static/js/2.4649c88a.chunk.js": "/Animation/static/js/2.4649c88a.chunk.js",
+    "static/js/2.4649c88a.chunk.js.map": "/Animation/static/js/2.4649c88a.chunk.js.map",
+    "static/js/3.98c07137.chunk.js": "/Animation/static/js/3.98c07137.chunk.js",
+    "static/js/3.98c07137.chunk.js.map": "/Animation/static/js/3.98c07137.chunk.js.map",
+    "index.html": "/Animation/index.html",
+    "static/css/main.f42f623c.chunk.css.map": "/Animation/static/css/main.f42f623c.chunk.css.map",
+    "static/js/2.4649c88a.chunk.js.LICENSE.txt": "/Animation/static/js/2.4649c88a.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/Animation/static/media/1.e1fbdcb0.png",
+    "static/media/2.png": "/Animation/static/media/2.e9e087f3.png",
+    "static/media/3.png": "/Animation/static/media/3.5f7f048e.png",
+    "static/media/4.png": "/Animation/static/media/4.5845a18d.png",
+    "static/media/5.png": "/Animation/static/media/5.b9e4ec54.png",
+    "static/media/Moon.137d9085.jpg": "/Animation/static/media/Moon.137d9085.jpg",
+    "static/media/svg with paths.263f0823.svg": "/Animation/static/media/svg with paths.263f0823.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9afcfa0.js",
+    "static/js/2.4649c88a.chunk.js",
+    "static/css/main.f42f623c.chunk.css",
+    "static/js/main.91b537a9.chunk.js"
+  ]
+}
